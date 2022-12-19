@@ -1,4 +1,4 @@
-# Kardiologie
+# Kardiologie & Kardiochirurgie
 
 ## Rhythmusstörungen
 
@@ -42,4 +42,69 @@
 - OP: orientiert an Schweregrad und Myokardfunktion, Risiko-Nutzen, Ätiologie
   - Spätfolgen vermeiden: LV-Hypertrophie oder pulmonale Hypertonie
 - Biologischer Klappenersatz: erste 3 Monate Antikoagulation, danach nicht mehr
-- Das ist ein Test 
+
+## Endokarditis
+
+- Klappen links häufiger als Klappen rechts betroffen
+- häufigster Erreger (native und prothetische Klappen: S. aureus)
+  - aggressiver und komplikativer Verlauf (Embolien, Schlaganfälle)
+  - Resistenzen sind ein Problem 
+- Nach S. aureus: Streptokokken der Viridans Gruppe, Enterokokken
+- Koagulasenegative Staphylokokken häufig auf Prothesen, v.a. in den ersten 12 Monaten
+- HACEK Gruppe
+- Bei 10-20% werden keine Erreger nachgewiesen 
+  - antibiotische Therapie
+  - Pilze
+  - alternative Ursache für Klinik
+- Nicht infektiös:
+  - Endocarditis rheumatica (nach Infektion mit betahämolysierenden Streptokokken): warzenähnliche Auflagerung, v.a. MV / AV
+  - Libman-Sacks (SLE): größere Fibrinauflagerungen, häufig mit Perikarditias oder Pleuritis, MV, AV, PV
+  - Endocarditis eosinophilica (Löffler): Verdickung des Myo- und Endokards mit Infiltrationen
+- Symptome
+  - Leitsymptom: Fieber
+  - neu aufgetretenes Herzgeräusch (50% d.F.), bzw. aggraviertes bestehendes Herzgeräusch
+  - Hämaturie
+  - Septische Embolien
+  - Splenomegalie
+- endokarditistypische kutane Symptome:
+  - Petechien aka Splinter-Hämorrhagien unter den Nägeln
+  - Janeway-Läsionen in Hand- und Fußflächen
+  - Oslerknötchen an Finger und Zehen: Vaskulitis durch Immunkomplexe
+  - Retinale Einblutungen: Roth's spots
+- Komplikationen
+  - Schlaganfälle (höchgstes Risiko bei Diagnosestellung)
+  - Klappendestruktion: akute Herzinsuffizienz
+  - Intrakardialer Abszess
+- Diagnostik
+  - TTE, besser TEE; negatives TEE bei trotzdem Starken Verdacht nach 5-7 Tagen wiederholen
+  - Blutkulturen mindestens 3 Paar
+  - Duke Kriterien
+  - CT / MRT selten nötig
+  - Kolibri: 18FDG-PET/CT
+- Duke Kriterien
+  - Hauptkriterien
+    - Typischer Erreger in 2 unabh. BK
+    - Erreger die eine Endokarditis verursachen können sind anhaltend positiv in den BK
+    - Ein einzelnder Nachweis von Coxiella burnetii (oder Antikörpertiter IgG > 1:8000)
+    - Auffällige Echokardiographie
+    - abnorme Aktivität im 18FDG-PET/CT
+    - paravalvuläre Läsionen in der CT / MRT
+  - Nebenkriterien
+    - Prädisposition (kardiale Grunderkrankung, iv Drogenabusus)
+    - Fieber > 38°C
+    - Gefäßveränderungen
+    - Immunologische Störung (Glomerulonephritis, Osler, Roths, Rheumafaktoren)
+    - Vaskuläre Störung (Janeway Läsionen, Splinter, Aneurysmen, ICB)
+    - mikrobiologischer Nachweis eines untypischen Keims
+
+> Duke Kriterien: Endokarditis sicher wenn:
+> 
+> 2 Hauptkriterien, 1 Hauptkriterium und 3 Nebenkriterien oder 5 Nebenkriterien positiv sind. 
+> 
+> Oder anders: Bildgebung und Erregernachweis sind ausreichend für die Diagnose.
+
+- Therapie
+  - "Endokarditis-Team: Kardiologie, Kardiochirurgie, Infektiologie, Mikrobiologie
+  - Nativklappen 2-6 Wochen Therapie
+  - prothetische Klappen mindestens 6 Wochen
+  - 
