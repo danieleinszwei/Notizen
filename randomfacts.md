@@ -98,13 +98,21 @@
     - mikrobiologischer Nachweis eines untypischen Keims
 
 > Duke Kriterien: Endokarditis sicher wenn:
-> 
+>
 > 2 Hauptkriterien, 1 Hauptkriterium und 3 Nebenkriterien oder 5 Nebenkriterien positiv sind. 
-> 
+>
 > Oder anders: Bildgebung und Erregernachweis sind ausreichend für die Diagnose.
 
 - Therapie
   - "Endokarditis-Team: Kardiologie, Kardiochirurgie, Infektiologie, Mikrobiologie
   - Nativklappen 2-6 Wochen Therapie
   - prothetische Klappen mindestens 6 Wochen
-  - 
+  - schwere akute Insuffizienzen werden chirurgisch therapiert
+  - Alle Nativklappen und Prothesen ab 12 Monate post-op:
+    - Ampicillin 3 * 4g (12g/Tag in 3-4 Dosen)
+    - Flucloxacillin 3 * 4g (12 g / Tag in 3-4 Dosen)
+    - Gentamicin 3mg/kg. Talspiegel, DANI
+  - Alle Klappenprothesen in den ersten 12 Monaten nach OP:
+    - Vancomycin 30-60 mg/kg/d in 2-3 Dosen, Talspiegel, DANI
+    - Gentamicin (s.o.)
+    - Rifampicin 900mg/d auf 2-3 Dosen verteilt
