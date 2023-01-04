@@ -99,3 +99,22 @@
   - bei erhöhter FRC können die Lungen auch schon bei normaler Atmung überbläht sein
   - Ist das RV erhöht, sind die Lunegn auch bei ruhiger Atmung überbläht
   - Erhebliche Znahme de FRC verkleinert die IVC, wenn nicht gleichzeitig die TLC vergrößert wird
+
+> Obstruktive Erkrankungen erhöhen die FRC bzw. das RV
+>
+> Restriktive Erkrankungen verkleinern das RV
+
+## Ventilation der Lunge
+
+> Die Ventilation wird so gesteuert, dass in der Alveolarluft ein pO2 von ca. 100 mm Hg und ein pCO2 von ca. 40 mm Hg herrschen
+
+- Die alveoläre Ventilation wird beschrieben durch:
+  - Atemzugvolumen
+  - Totraumvolumen
+    -  jenes Volumen was bei Respiration nicht die Alveolen erreicht 
+  - Atemminutenvolumen
+  - Atemfrequenz
+    - 7-20 / min beim Erwachsenen in Ruhe
+    - Bei Kindern höher, grob: je jünger, desto höher die Frequenz
+    - Reicht alleine zur Beurteilung nicht aus (langsame regelmäßige Atmung aber wenig TV bspw.)
+    - Extreme Bradypnoe oder Tachypnoe gelten immer Ausdruck einer schweren resp. Störung
