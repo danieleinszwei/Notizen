@@ -111,10 +111,66 @@
 - Die alveoläre Ventilation wird beschrieben durch:
   - Atemzugvolumen
   - Totraumvolumen
-    -  jenes Volumen was bei Respiration nicht die Alveolen erreicht 
+    - jenes Volumen was bei Respiration nicht die Alveolen erreicht
   - Atemminutenvolumen
   - Atemfrequenz
     - 7-20 / min beim Erwachsenen in Ruhe
     - Bei Kindern höher, grob: je jünger, desto höher die Frequenz
     - Reicht alleine zur Beurteilung nicht aus (langsame regelmäßige Atmung aber wenig TV bspw.)
     - Extreme Bradypnoe oder Tachypnoe gelten immer Ausdruck einer schweren resp. Störung
+  - Totraumventilation = AF * Vd
+    - Je höher die Atemfrequenz, desto höher ist die Totraumventilation
+  - Berechnung Totraum -> **Bohr-Gleichung** - HERLEITUNG!
+    - Vd = (FaCO2 - FeCO2 / FaCO2) * TV
+  - keine Durchblutung der Alveole = Alveole zählt zum Totraum (pyhsiologischer Totraum)
+  - AMV bei Frauen 20% geringer als bei Männern
+  - **spezifische Ventilation:** pro ml O2-Verbrauch benötigtes Atemminutenvolumen
+    - AMV (ml/min) / VO2 (ml/min) = 28 (+/- 3)
+  - Alveoläre Ventilation: AF * (Vt - Vd)
+    - nur der Anteil vom Minutenvolumen der am alveolären Gasaustausch teilnimmt
+    - hohe F und geringe TV = geringe alv. Vent. da mehr Totraumvent.
+
+## Atemmechanik
+
+- Aktivität der Atemmuskulatur = rhythmiusche Volumenänderung in der Lunge
+- Atemmechanik: Luftströmung und deren Einbflussfaktoren während des Atemzyklus, Beziehungen zwischen Druck und Volumen sowie Druck und Strömungsstärke
+  
+### Atemmuskulatur
+
+- **Zwerchfell**
+  - Kontraktion bedeutet Abflachung, Erweiterung der Thoraxhöhlen und die unteren Rippenräünder werden nach auswärts bewegt
+- Äußere Interkostalmuskeln
+  - erst bei hohem Ventilationsbedarf
+  - Inspiration
+  - Mm. intercostales externi
+  - Drehmoment auf kaudale Rippen am größten dadurch nehmen der laterale und sagittale Thoraxdurchmesser zu
+- Andere Inspirationsmuskeln
+  - Mm. scaleni
+  - Mm. sternocleidomastoedei
+  - M. trapezius
+- Muskeln, die die Atemwege erweitern:
+  - Mm. mylohyoideus
+  - M. digastricus
+  - Platysma
+  - Wangenmuskeln
+  - Kehlkofmuskulatur
+  - Zungenmuskeln
+  - hintere Nackenmuskeln
+- Exspirationsmuskulatur
+  - Exspiration ist passiv durch Retraktion der elastischen Gewebe
+  - Bei erhöhtem Ventilationsberdarf (ca. 40 L/min werden genannt) oder massiver Obstruktion einsatz der Exspirationsmuskulatur
+  - Bauchwandmuskeln
+    - Mm. obliquus externus & internus abdominis
+    - M. transversus abdominis
+    - M. rectus abdominis
+    - Husten, Pressen, Erbrechen
+    - Erzeugen hohe, lineare Strömungsgeschwindigkeit
+  - Mm. intercostales interni
+    - Antagonisten der Mm. intercostales externi
+    - ziehen nach unten und einwärts
+  - Durch maximale Kontraktion der Exspirationsmuskulatur kann ein intrapulmonaler Druck von 120-300 mmhg erzeugt werden
+  - Der Intraabdominelle Druck kann beim Pressen auf 150-200mmHg ansteigen -> Durchblutung der Aorta wird unterbrochen
+- Warum strömt Atemluft?
+  - Inspiration: Der intrapulmonale (oder Alveolendruck) muss niedriger als der Atmosphären Druck sein
+  - Diese Widerstände müssen überwunden werden: Elastische W., Reibungsw. und Strömungsw.
+  - Exspiration: Der intrapulmon
