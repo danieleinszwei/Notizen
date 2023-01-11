@@ -173,4 +173,26 @@
 - Warum strömt Atemluft?
   - Inspiration: Der intrapulmonale (oder Alveolendruck) muss niedriger als der Atmosphären Druck sein
   - Diese Widerstände müssen überwunden werden: Elastische W., Reibungsw. und Strömungsw.
-  - Exspiration: Der intrapulmon
+  - Exspiration: Der intrapulmonale Druck muss > atmosphärischer Druck sein, passiv, nur bei großen Widerständen Einsatz der Atemhilfsmuskulatur
+- Was bestimmt das Füllvolumen der Lunge?
+  - der "dehnende" Druck bzw. die transmurale Druckdifferenz (Vgl. Überdruck und Unterdruckbeatmung: lediglich die Differenz ist entscheidend)
+  - **transmurale Druckdifferenz = Innendruck - Außendruck**
+
+> Alle Drücke werden auf den *atmosphären* Druck bezogen. Nulldruck = Barometerdruck.
+
+## Definition verschiedener Drücke
+
+### Intrapulmonaler Druck
+
+- im inneren der Lunge 
+- oder auch: Alveolardruck
+- Messung: bei offener Stimmritze ohne Atemgasfluss entspricht der Munddruck dem Alveolardruck
+
+### Transpulmonale Druckdifferenz
+
+- Differenz zwischen Alveolardruck und Pleuraspalt
+- Der Druck in der Alveole ist immer größer als der des umgegebenen Gewebes, es sei denn, die Alveole ist luftleer
+- Der transpulmonale Druck ist nicht gleichmäßig über die Lunge verteilt
+- Oben liegende Alveolen erhalten mehr Luft
+  - daher stärker gedehnt = transpulmonale Druckdifferenz größer. 
+  - Von unten nach oben nimmt der Gradient um ca 1cmH20 pro 3cm zu
