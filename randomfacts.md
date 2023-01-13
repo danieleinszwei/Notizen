@@ -116,3 +116,10 @@
     - Vancomycin 30-60 mg/kg/d in 2-3 Dosen, Talspiegel, DANI
     - Gentamicin (s.o.)
     - Rifampicin 900mg/d auf 2-3 Dosen verteilt
+
+# Infektiologie
+
+## Allgemeines & Aussagen
+
+- Abdominalchirurgische Eingriffe = RF für Candida Sepsis
+  - BDG – (1 → 3)-β-D-Glucan kann als Marker für Therapien einer Candidose dienen, die Steuerung der Therapie hiermit senkt die Mortalität aber nicht
