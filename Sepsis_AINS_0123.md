@@ -79,4 +79,24 @@ diffuse Aktivierung des Gerinnungssystems: Endothelzellschaden, Faktorenverbrauc
   - direkte Phagozytose
   - Granula mit antimikrobiellen Enzymen und radikalen O2-Spezies
   - Neutrophile extracellular traps: DNA wird durch Zelltod frei und in Form eines Netzes gespannt (mechanische Barriere und antimikrobielle WIrkung)
-  - 
+- Bei der Sepsis laufen ABwehrmechismen dissemniert ab und fügen damit Schäden zu
+
+### Aktivierung des adaptiven Immunsystems
+
+- Antigenpräsentierende Zellen (APZ): Ddendritische Zellen, Makrophagen, Monozyten spalten Erregerbestandteile nach Aufnahme ins Phagolysosom
+- Dabei entstehen Fragmente die mit MHC-II Komplexen an der Zelloberfläche präsenteirt werden
+- CD8+ T-Zellen sind zytotoxische Zellen und zerstören die betroffenen Zellen sofort
+- CD4+ T-Zellen initiieren die Reifung von B-Zellen und damit die Bildung spezifischer Antikörper
+
+> Die Pathophysiologie der Sepsis ist vor allem durch die fehlgeleitete bzw. dysregulierte Antwort des angeborenen Immunsystems gekennzeichnet. Zudem zeigt sich der Transfer in das adaptive Immunsystem häufig als gestört.
+
+## Septischer Schock
+
+Ist eine Unterform des destributiven Schocks mit komplexer Pathphysiologie
+
+### Endothel
+
+- Trägt PRR und Zytokinrezeptoren, die NO-abhängig die Proteinkinase G in der glatten Gefäßmuskulatur aktivieren -> Relaxation -> Vasodilatation
+- Tight-junctions werden "aufgeweicht" -> Permeabilität deutlich gesteigert, eigentlich zur Leukozytendiapedese gedacht
+- 
+- 
