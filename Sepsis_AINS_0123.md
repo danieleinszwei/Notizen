@@ -53,3 +53,30 @@ gemeinsame Endstrecke: Membrane Attack Complex → Lyse + proinflammatorischer T
 ### Gerinnungssystem
 
 diffuse Aktivierung des Gerinnungssystems: Endothelzellschaden, Faktorenverbrauch mit der Gefahr der DIC (Mortalität ↑), endogene Antikoagulanzien (z. B. Protein C) ↓,  Thrombin kann z. B. C5a proteolytisch aktivieren
+
+## Beispiel Lipopolysaccharide (LPS)
+
+- Gramnegative Erreger
+- LPS sind ein Endotoxin
+- Im Plasma: LPS-binding-protein (LBP) 
+- LBP + LPS = Aktivieren mit CD14 / MD2 den TLR-4
+- Nach verrückter SIgnalkaskade wird NFkB aktiviert = Zytokinproduktion hochreguliert (IL: 6,12,1b und TNFa)
+- Rezeptorkomplex wird ins Endosom transportiert, da dann TRIF/TRAM Signalweg (Interferon): **antiinflammatorischer Signalweg**
+- Intrazelluläres LPS löst Pyroptose aus: über Caspase-11 wird, in Anwesenheit eines Inflammasoms, die strukturelle Integrität der Zelle aufgelöst
+
+## Inflammasom
+
+- Multiproteinkomplex, gebildet in Anwesenheit von DAMPs bzw. PAMPs
+- Inflammasom Sensormolekül aktiviert Caspase-1 (direkt oder indirekt) über das ASC (apoptosis-associated speck-like protein containing a C-terminal caspase recruitment domain)
+- Außerdem kann Gasdermin-D aktiviert und sezerniert werden, welches wiederum Poren in die Zellmembran baut und zur Pyroptose führt
+
+## Frühe Phase und beteiligte Zellreihen
+
+### angeborenes IS
+- lokal: Dendritische Zellen und ortsständige Makrophagen
+- zirkulierend: Neutrophile Gr. (NG) und Monozyten
+- NG
+  - direkte Phagozytose
+  - Granula mit antimikrobiellen Enzymen und radikalen O2-Spezies
+  - Neutrophile extracellular traps: DNA wird durch Zelltod frei und in Form eines Netzes gespannt (mechanische Barriere und antimikrobielle WIrkung)
+  - 
