@@ -101,7 +101,9 @@ Ist eine Unterform des destributiven Schocks mit komplexer Pathphysiologie
 - Große Arteriolen dilatieren ebenfalls, aggraviert Blutdruckabfall
 - TNFa, IL-1b und C5a haben möglicherweise auch eine negativ inotrope WIrkung
 - Herzfrequenz steigt kompensatorisch, die Herzfrequenzvariabilität sinkt (durch erhöhte Sens. für symp. Reize
-- In Summe: **hyperdynam, erhöhtes HZV, bei extrem verringerter Nachlast, welche auch durch ein erhöhtes HZV nicht ausgeglichen werden kann.** -> insuff. Hämodynamik
+- In Summe: **hyper
+
+*https://emcrit.org/pulmcrit/understanding-lactate-in-sepsis-using-it-to-our-advantage/*dynam, erhöhtes HZV, bei extrem verringerter Nachlast, welche auch durch ein erhöhtes HZV nicht ausgeglichen werden kann.** -> insuff. Hämodynamik
 - Außerdem sind ausreichender Blutdruck bzw. uasreichende Makrohämodynamik nicht kohärent, die Mikrozirkulation kann dennoch erheblich eingeschränkt sein
 
 ### Mikroperfusion
@@ -114,4 +116,25 @@ Ist eine Unterform des destributiven Schocks mit komplexer Pathphysiologie
 
 ### Organdysfunktion
 
+> Laktat entsteht immer dann, wenn nicht ausreichend Sauerstoff für die Atmungskette bereitgestellt werden kann. Daher ist die Definition des septischen Schocks mit einem Serum-Laktat von > 2,0 mmol/l im Blut verbunden.
 
+So sagt es der Artikel, aber: 
+
+>  Most patients with sepsis and elevated lactate have hyperdynamic circulation with very adequate delivery of oxygen to the tissues.  Studies have generally failed to find a relationship between lactate levels and systemic oxygen delivery or mixed venous oxygen saturation.  There is little evidence of frank tissue hypoxemia in sepsis.  Moreover, the lungs have been shown to produce lactate during sepsis, which couldn't possibly be due to hypoxemia (Marik 2014). 
+
+* - https://emcrit.org/pulmcrit/understanding-lactate-in-sepsis-using-it-to-our-advantage/*
+
+- Laktat von > 4 mmol/l = Mortalität erhöht
+
+## Spätphase - Antiinflammation / Immunparalyse
+
+- antiinflammatorische Immunitätslage mit hoher Mortalität
+- Hyperinflammation und Immunsuppression sind z.T. schwer zu differenzieren
+
+### IL-4
+
+Unterdrückt TNFa und IL-1b Produktion nach LPS Stimulation
+
+### IL-10
+
+Makrophagenfunktion suppremiert, außerdem verringerte Antigenpräsentation von dendritischen Zellen 
