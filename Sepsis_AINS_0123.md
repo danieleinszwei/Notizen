@@ -94,9 +94,24 @@ diffuse Aktivierung des Gerinnungssystems: Endothelzellschaden, Faktorenverbrauc
 
 Ist eine Unterform des destributiven Schocks mit komplexer Pathphysiologie
 
-### Endothel
+### Endothel & Arterien
 
 - Trägt PRR und Zytokinrezeptoren, die NO-abhängig die Proteinkinase G in der glatten Gefäßmuskulatur aktivieren -> Relaxation -> Vasodilatation
 - Tight-junctions werden "aufgeweicht" -> Permeabilität deutlich gesteigert, eigentlich zur Leukozytendiapedese gedacht
-- 
-- 
+- Große Arteriolen dilatieren ebenfalls, aggraviert Blutdruckabfall
+- TNFa, IL-1b und C5a haben möglicherweise auch eine negativ inotrope WIrkung
+- Herzfrequenz steigt kompensatorisch, die Herzfrequenzvariabilität sinkt (durch erhöhte Sens. für symp. Reize
+- In Summe: **hyperdynam, erhöhtes HZV, bei extrem verringerter Nachlast, welche auch durch ein erhöhtes HZV nicht ausgeglichen werden kann.** -> insuff. Hämodynamik
+- Außerdem sind ausreichender Blutdruck bzw. uasreichende Makrohämodynamik nicht kohärent, die Mikrozirkulation kann dennoch erheblich eingeschränkt sein
+
+### Mikroperfusion
+
+- Tissue factor auf Endothelzellen / Makrophagen -> Aktivierung der sog. extr. Kaskade
+- Ubiquitäre Bildung von Thromben, Verbrauch von Gerinnungsfaktoren 
+- Blutungsneigung
+- Interaktion zwischen Gernnungs- und Komplementsystem: Thrombin aktiviert C5a
+- Glykokalyx wird enzymatisch abgebaut durch die Inflammation (ROS, TNFa, IL.1b): Capillary leak und Mikrozirkulation wird noch weiter gestört
+
+### Organdysfunktion
+
+
