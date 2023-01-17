@@ -137,4 +137,16 @@ Unterdrückt TNFa und IL-1b Produktion nach LPS Stimulation
 
 ### IL-10
 
-Makrophagenfunktion suppremiert, außerdem verringerte Antigenpräsentation von dendritischen Zellen 
+Makrophagenfunktion suppremiert, außerdem verringerte Antigenpräsentation von dendritischen Zellen sowie geringere Produktion proinflammatorischer Zytokine (TNFa, IL-1b)
+
+### TGF-beta
+
+induziert Reifung regulatorischer T-Zellen, inhibiert Reifung von T-Zellen zu T-Effektor-Zellen
+
+### IL-1Ra
+
+IL-1 Rezeptor-Antagonist; Keine Mortalitätsenkung durch rekombinantes Il-1Ra
+
+### s-TNF-R
+
+Bindet TNF im Plasma und membranständige Rezeptoren werden dadurch nicht mehr erreicht
