@@ -150,3 +150,13 @@ IL-1 Rezeptor-Antagonist; Keine Mortalitätsenkung durch rekombinantes Il-1Ra
 ### s-TNF-R
 
 Bindet TNF im Plasma und membranständige Rezeptoren werden dadurch nicht mehr erreicht
+
+## Zelluläre Veränderungen bei Sepsis / sept. Schock
+
+Das ändert sich:
+
+- numerische Zusammensetzung der **Zellpopulationen**#
+  - Expansion von Neutrophilen
+- **Oberflächenbeschaffdenheit** der Zellmembran 
+- **Empfindlichkeit** (= Toleranz) gg. Immun- bzw. Sepsismediatoren
+
