@@ -283,3 +283,101 @@ Biomarker zu Erkennung von Strahlenschäden fehlen
 - Südfrankreich = 3 mSv/a
 - Kerala = 100 mSv/a
 - Ramsar = 260 msv/a
+
+## Natürliche und zivilatorische Strahlenexposition
+
+- natürlich
+  - kosmogen aka höhenstrahlung
+  - terrestrische Strahlung aka Bodenstrahlung
+
+### Strahlenschutzgrößen
+
+- Strahlenschutzgrößen sollen deterministische Strahlenschäden verhindern und stochastische Schäden unter akzeptabler Grenze halten 
+- Organdosis
+  - Multiplikation der Energiedosis mit einem Wichtungsfaktor, der die relative biologische Wirksamkeit von Strahlungsarten berücksichtigt
+  - Phtononen = Wichtungsfaktor 1
+  - Ergebnis der Wichtung ist eine Organdosis, die in Sievert (Sv) angegeben wird
+- effektive Dosis
+- beide Größen könnenn nicht durch direkte Messung ermittelt werden 
+- **Energiedosis D in Gy** = physikalische Basisgröße
+
+> Definition Energiedosis D: Energie, die durch ionisierende Strahlung an eine Masse abgegeben wird
+
+**effektive Dosis**
+
+- Sv
+- gewichtete Äquivalenzdosen H in den einzelnen Organen eimes Referenzkörpers
+- Maß für das Strahlenrisiko eines exponierten Referenzkörpers
+- ungefähr die mittlere Ganzkörperdosis eines "Referenzmenschens"
+- gibt *nicht* die Dosis eines MA an, sondern nur immer die Dosis einer Referenzperson
+
+### Effektive Dosis und Risiko-Nutzen-Analyse
+
+- zum Vergleich verschiedener  Diagnoseverfahren, Techniken oder Expositionsbedingungen 
+  - bspw. Vergleich ziwschen RöTx ("Teilkörperexposition") und natürliche Strahlenexposition ("Ganzkörperexposition")
+- inhomogene Dosisverteilung im Gewebe und Teilkörperexpositionen können die effektive Dosis zu niedrig anzeigen 
+- Strahlung mit niedriger Eindringtiefe oder geringer Reichweite kann an der Haut zu Gewebeschäden führen, obwohl Organdosis und die effektive Dosis unterhalb aller Grenzwerte lagen
+- Organdosen / Energiedosen sind ein besser geeigneter Wert
+
+### kollkeive effektive Dosis 
+
+Ist die summer aller individueller effektiven Dosen von Personen einer definierten Gruppe n einem definierten Zeitraum
+
+- Strahlenschutzgröße
+- geeignet um radiologische Techniken und Strahlenschutzmethoden zu vergleichen
+- wenn sie auf geringen Expositionen großer Bevölkerungsgruppen basieren, können Kollektivdosen nichr zur Risikoabschäätzung benutzt werden (zB durch Krebs verursachte Todfesfälle)
+
+### Natürliche Strahlenexposition
+
+- Weltall, Sonne: Protonen und Alphateilchen, geringe Menge Gammastrahlung
+- jährliche effektive Dosis der nat. Strahlung E = 0,3 mSv/a in DE
+  - varriiert mit geographischer Breite durch das Erdmagnetfeld. An den Polen höhere Exposition, am Äquator geringere Exposition
+- Dosis variiert **stark** mitr der Höhe:
+  - mit zunehmnder Höhe wird die abschirmende Wirkung der Luft geringer
+  - Mount Everest 20 mSv/a
+  - Zugspitze 1,2 mSv/a
+  - FLUGHÖHE PASSAGIERFLUGZEIGE (12-14KM) 5 µSv/h
+- terrestrische Strahlung:
+  - in Boden, Baumatzerialien und Gesteinen vorkommende Radionuklide
+    - Uran 238
+    - Uran 235
+    - Thorium 232
+    - Kalium 40
+  - In Gebäuden durch Material auch viel Strahlung
+- Innere Strahlenexposition durch Ingestion
+  - V.a. durch Kalium-40
+
+### Zusammenfassung Folien
+
+- Strahlenxpo in DE 2-3 mSv/a, MW 2,1 mSv
+- Dosisbeitrag der Medizin: 1,7 mSv/a
+- Gesamtexposition 3,8 mSv / Jahr / Person
+- Rechtfertigende Indikation: gesundheitrlicher Nutzen überwiegt dem Strahlenrisiko
+  - Patient muss umfassend informiert werden 
+
+## Strahlenphysikalische Grundlagen
+
+- Strahlung = Energietransport
+- alpha
+  - ionisierte Heliumatome
+  - 2 Protonen
+  - 2 Neutronen
+  - doppelt geladen
+  - schwere Strahlung
+- beta
+  - elektronen und positronen
+  - eher leichte Strahlung
+  - elektrisch geladen
+- gamma
+  - masselose Teilchen, Photonen
+  - gleiche Geschwindigkeit im Vakuum
+  - unterscheiden sich durch ihre Energie (blau=mehr als grün oder rot)
+  - elektrische & magnetische Eigenschaften obwohl ungeladen
+- röntgen vs gamma
+  - röntgen energiearm
+  - gamma energiereich
+- wechselwirkungen
+  - elektrisch geladene Teilchen können Elektronenstrukturen deformieren und zerreissen
+  - alpha: schwer, prallt nicht ab, fliegt durch, pro aufprall aber Bremsung
+  - beta: eher weniger deformierend, prallen wegen geringer Masse häufiger an Molekülstrukturen ab, ändern dabei die Richtung zickzack artig ab, dabei geht energie verloren 
+  - 
