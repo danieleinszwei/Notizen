@@ -119,4 +119,8 @@ Nicht ganz, aber überwiegend.
 
 ## Biomarker der Sepsis
 
-Nochmal Vorsicht: **Laktat != Biomarker**
+Nochmal Vorsicht: **Laktat != Biomarker**! Entzündungsreaktionen sind komplex, viele Gene und Moleküle interagieren miteinander. Ende 2019 waren 258 verschiedene Biomarker beschrieben. Am Ende kann keiner dieser Biomarker zwischen Infektion und steriler Inflammation unterscheiden. 
+
+### Leukozyten
+
+
