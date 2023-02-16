@@ -379,5 +379,4 @@ Ist die summer aller individueller effektiven Dosen von Personen einer definiert
 - wechselwirkungen
   - elektrisch geladene Teilchen können Elektronenstrukturen deformieren und zerreissen
   - alpha: schwer, prallt nicht ab, fliegt durch, pro aufprall aber Bremsung
-  - beta: eher weniger deformierend, prallen wegen geringer Masse häufiger an Molekülstrukturen ab, ändern dabei die Richtung zickzack artig ab, dabei geht energie verloren 
-  - 
+  - beta: eher weniger deformierend, prallen wegen geringer Masse häufiger an Molekülstrukturen ab, ändern dabei die Richtung zickzack artig ab, dabei geht energie verloren  
