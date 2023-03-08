@@ -1,2 +1,0 @@
-# EKG Interpretation (NA)
-
